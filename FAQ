@@ -1,0 +1,18 @@
+FAQ
+  
+Q 1.	What exactly is this site?
+This is a game; the rules are simple, try and make money buying and selling “stocks”.  You can do this in a couple ways, you can simply buy low, sell high, or you can hodl and collect dividends. 
+Q 2.	Can I make money playing this game?
+Sure you can, but you can lose it too, look at this as strictly entertainment…whatever you are willing to spend on any other game is probably a good amount to spend on this game.
+Q 3.	What causes “stocks” to go up or down? And     how are dividends paid?
+When someone purchases or sells shares of any stock 10% of the buy/sell price is split by the total number of shares and given as locked-in dividends (priced in Ether) to all previous buyers based on how many shares they own—Thus the 20% difference between buy and sell price.  The price of shares will go up by .25% after purchases, and decrease by .25% after sells.  That’s it, there is no other way to change, or manipulate prices outside of buying and selling. 
+Q 4.	Are there any fees or commissions?
+ No, there are no commissions or rake of any kind.  Each “Stock” is really its own smart contract, and they are all identical.  The only fees would be the gas paid to send money through Metamask, you can read about this here (LINK)
+Q 5.	What is a smart contract?
+A smart contract, also known as a cryptocontract, is a computer program that directly controls the transfer of digital currencies or assets between parties under certain conditions. ... These contracts are stored on blockchain technology, a decentralized ledger that also underpins Ethereum and other cryptocurrencies.  Simply put a smart contract self-executes the “if-this-then-that” conditions coded onto it.  These contracts are connected to the Ethereum blockchain, so as long as Ethereum exists these contracts exist.	
+Q 6.	Wait, are you saying that if I buy some of one of these stocks and never sell I can keep collecting dividends forever??
+Well forever is a long time…but again as long as Ethereum exists these contracts do too, of course you will need other people to be buying or selling into these in order to collect dividends
+Q 7.	Here’s to going Viral!  
+Indeed.
+Q 8.	Okay, what about if the site crashes?
+The website has nothing to do with these individual contracts other than displaying and linking to them.  Again, these contracts live and die in the Ethereum blockchain.  However, in the event the website is down and you want to withdraw all your funds you can do so by going navigating through MetaMask to “view account on etherscan” you can then copy the addresses to the “stocks” smart contracts that you had invested in send a transaction through metamask to those addresses for 0 Eth with a 150k gas limit and "0xb1e35242" under ‘additional data’ for your own personal exit scheme. This is the getMeOutOfHere() function on the contract and will cash you out of all tokens and dividends. (Soon you will be able to copy a list of all portfolio addresses right from your portfolio page)
